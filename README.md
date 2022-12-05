@@ -1,5 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on DoDO(to do platform)
-- 🌱 I’m currently learning React.js
+- 🔭 I’m currently working on Furt
+- 🌱 I’m currently learning Flutter
+
 
