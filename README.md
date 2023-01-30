@@ -1,8 +1,8 @@
 <h3 align="center">A passionate developer from Austria</h3>
 
-- 🔭 I’m currently working on **FurtFight**
+- 🔭 I’m currently working on **BudgetBooster**
 
-- 🌱 I’m currently learning **Rust and blender**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://hannes-scheibelauer.de/](https://hannes-scheibelauer.de/)
 
