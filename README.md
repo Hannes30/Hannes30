@@ -1,12 +1,12 @@
 <h3 align="center">A passionate web developer from Austria</h3>
 
-- 🔭 I’m currently working on **FurtMedia**
+- 🔭 I’m currently working on **CineManager**
 
 - 🌱 I’m currently learning **Vue.js**
 
 - 👨‍💻 All of my projects are available at [https://hannes-scheibelauer.at/](https://hannes-scheibelauer.at/)
 
-- 💬 Ask me about **Unity**
+- 💬 Ask me about **next.js**
 
 - 📫 How to reach me **kontakt@hannes-scheibelauer.at**
 
