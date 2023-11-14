@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **CineManager**
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **Svelte**
 
 - 👨‍💻 All of my projects are available at [https://hannes-scheibelauer.at/](https://hannes-scheibelauer.at/)
 
